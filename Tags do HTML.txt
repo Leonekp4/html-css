@@ -1,0 +1,8 @@
+li - Lista
+ul - 
+ol - 
+p - Páragrafo
+h1 - Título
+h2 -
+h3 -
+img - Imagem 
